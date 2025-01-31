@@ -4,7 +4,7 @@ Welcome to **sc-RNA Analysis for Noobs!** Before you dive in, let’s get your s
 
 ---
 
-## 📌 Step 1: Install R & RStudio  
+##  Step 1: Install R & RStudio  
 If you haven’t already, install:  
 - **[R](https://cran.r-project.org/)** (the programming language)  
 - **[RStudio](https://posit.co/download/rstudio-desktop/)** (a much friendlier interface for R)  
@@ -13,7 +13,7 @@ Make sure you have the latest versions!
 
 ---
 
-## 📌 Step 2: Install Required Packages  
+##  Step 2: Install Required Packages  
 Open RStudio and run the following command to install all necessary packages:  
 
 ```r
@@ -31,7 +31,7 @@ If any package refuses to install, **Google the error message.** It's usually so
 
 ---
 
-## 📌 Step 3: Clone or Download This Repository  
+##  Step 3: Clone or Download This Repository  
 If you're comfortable with Git, clone this repo:  
 
 ```sh
@@ -43,7 +43,7 @@ If Git scares you, just click **"Download ZIP"** from the GitHub page and extrac
 
 ---
 
-## 📌 Step 4: Open the R Project  
+##  Step 4: Open the R Project  
 - In RStudio, go to **File → Open Project**  
 - Select `sc-RNA-Analysis-for-Noobs.Rproj`  
 
@@ -51,7 +51,7 @@ This makes your life easier by setting up the right working directory.
 
 ---
 
-## 📌 Step 5: Test Your Setup  
+##  Step 5: Test Your Setup  
 Run this in RStudio to check if everything is working:  
 
 ```r
@@ -60,17 +60,17 @@ library(ggplot2)
 print("Setup successful! 🎉")
 ```
 
-If you see `"Setup successful! 🎉"`, congrats! You’re ready to roll. 🚀  
+If you see `"Setup successful! 🎉"`, congrats! You’re ready to roll.  
 
 ---
 
-## 🚨 Troubleshooting  
+## Troubleshooting  
 **Issue:** *Package won’t install?*  
-🔹 Try restarting RStudio and running the install command again.  
-🔹 If it says *"dependency XYZ is missing"*, install that package first using `install.packages("XYZ")`.  
-🔹 If you're on Windows, R might need **RTools** (install it from [here](https://cran.r-project.org/bin/windows/Rtools/)).  
+Try restarting RStudio and running the install command again.  
+If it says *"dependency XYZ is missing"*, install that package first using `install.packages("XYZ")`.  
+If you're on Windows, R might need **RTools** (install it from [here](https://cran.r-project.org/bin/windows/Rtools/)).  
 
 ---
 
-## 🎯 You're All Set!  
-Now, head over to **notebooks/** and start running the analysis scripts! 🚀  
+## You're All Set! LEZZGOOOOOOO 
+Now, head over to **notebooks/** and start running the analysis scripts!   
